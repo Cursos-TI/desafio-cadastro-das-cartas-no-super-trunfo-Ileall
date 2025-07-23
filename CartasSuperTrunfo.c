@@ -27,7 +27,7 @@ int main() {
     scanf("%d", &populaçao);
     getchar();
     
-    printf ("Digite a área: \n");
+    printf ("Digite a área em kilômetros quadrados: \n");
     scanf("%f", &areakm2);
     getchar();
 
