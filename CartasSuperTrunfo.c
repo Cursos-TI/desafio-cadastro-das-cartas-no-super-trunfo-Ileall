@@ -33,6 +33,11 @@ int main() {
     printf("Digite o ponto turismo:\n");
     scanf("%d", &pontoturismo1);
 
+    densidadep = populacao1 / areakm21
+
+    printf("A densidade populacional é: \n");
+    scanf ("%f", &densidadep);
+
     // Dados da segunda carta
     char estado2[40];
     char codigocarta2[2];
