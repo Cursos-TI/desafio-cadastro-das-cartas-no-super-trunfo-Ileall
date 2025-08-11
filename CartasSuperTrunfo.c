@@ -8,6 +8,7 @@ int main() {
     int populacao1;
     float areakm21;
     float pib1;
+    float densidadep;
     int pontoturismo1;
 
     printf("\n--- CARTA 1 ---\n");
